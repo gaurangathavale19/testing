@@ -4,3 +4,10 @@ happy spoj
 
 No Nano
 VSCODE only
+
+IDEA: first few labs not to be graded
+
+Use only for graded lab
+
+1. VM should be running in the lab (not anywhere else)
+2. Only one committer to a repo (i.e. th student)
